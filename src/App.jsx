@@ -1,7 +1,7 @@
 
 import { useState } from 'react'
 import './App.css'
-import ButtonPhrase from './components/Buttonphrase'
+import ButtonPhrase from './components/ButtonPhrase'
 import PhrasesCard from './components/PhrasesCard'
 import phrases from './utils/phrases.json'
 import getRandomElementFromArray from './utils/randomElementFromArray'
